@@ -1736,7 +1736,7 @@ pre .deletion {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: linear-gradient(120deg, rgba(13,27,42,0.251) 0%, rgba(27,38,59,0.251) 100%);
+  background: linear-gradient(120deg, rgba(29,77,196,0.251) 0%, rgba(52,64,92,0.251) 100%);
   -webkit-backdrop-filter: blur(10px);
   backdrop-filter: blur(10px);
   padding-top: 2px;
